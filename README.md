@@ -1,1 +1,1 @@
-Eliminar Segundo
+eliminar-segundo
